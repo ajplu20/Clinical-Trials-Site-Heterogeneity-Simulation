@@ -1,4 +1,4 @@
-# Impact of Site-Level Variation on Statistical Power and Error Control in Multicentre Trials: A Simulation Study
+# Impact of Site-Level Variation on Statistical Power and Type 1 Error Control in Multicentre Trials: A Simulation Study
 
 This repository contains the R code used in the paper  
 **"Impact of Site-Level Variation on Statistical Power and Error Control in Multicentre Trials: A Simulation Study."**
